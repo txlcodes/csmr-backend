@@ -76,7 +76,11 @@ app.use(cors({
     'http://localhost:8080',
     'http://127.0.0.1:8080',
     'http://localhost:8000',
-    'http://127.0.0.1:8000'
+    'http://127.0.0.1:8000',
+    // Add your Vercel frontend URL here
+    'https://csmr-frontend.vercel.app',
+    // Allow all Vercel domains (for development)
+    /\.vercel\.app$/
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With'],
@@ -100,7 +104,9 @@ app.use(
         "http://localhost:5000",
         "http://127.0.0.1:5000",
         "http://localhost:8080",
-        "http://127.0.0.1:8080"
+        "http://127.0.0.1:8080",
+        // Allow connections to Render backend
+        "https://*.onrender.com"
       ]
     }
   })
