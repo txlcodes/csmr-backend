@@ -1,0 +1,833 @@
+2025-06-07 01:05:00 info: Server running in development mode on port 5000
+2025-06-07 01:05:00 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:00 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:05 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:05 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:10 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:10 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:15 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:15 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:20 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:20 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:25 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:25 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:30 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:30 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:35 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:35 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:39 info: Server running in development mode on port 5000
+2025-06-07 01:05:39 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:39 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:41 info: Server running in development mode on port 5000
+2025-06-07 01:05:41 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:41 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:46 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:46 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:51 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:51 info: Retrying connection in 5 seconds...
+2025-06-07 01:05:56 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:05:56 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:01 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:01 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:06 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:06 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:11 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:11 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:17 info: Server running in development mode on port 5000
+2025-06-07 01:06:17 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:17 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:22 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:22 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:27 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:27 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:32 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:32 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:37 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:37 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:42 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:42 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:47 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:47 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:52 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:52 info: Retrying connection in 5 seconds...
+2025-06-07 01:06:57 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:06:57 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:02 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:02 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:07 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:07 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:12 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:12 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:17 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:17 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:22 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:22 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:27 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:27 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:32 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:32 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:37 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:37 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:42 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:42 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:47 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:47 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:52 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:52 info: Retrying connection in 5 seconds...
+2025-06-07 01:07:57 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:07:57 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:02 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:02 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:07 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:07 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:12 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:12 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:17 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:17 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:22 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:22 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:27 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:27 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:32 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:32 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:37 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:37 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:42 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:42 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:47 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:47 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:52 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:52 info: Retrying connection in 5 seconds...
+2025-06-07 01:08:57 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:08:57 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:02 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:02 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:07 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:07 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:12 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:12 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:17 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:17 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:22 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:22 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:27 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:27 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:32 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:32 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:40 info: Server running in development mode on port 5000
+2025-06-07 01:09:40 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:40 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:45 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:45 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:50 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:50 info: Retrying connection in 5 seconds...
+2025-06-07 01:09:55 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:09:55 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:00 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:00 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:05 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:05 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:10 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:10 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:15 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:15 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:20 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:20 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:25 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:25 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:30 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:30 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:35 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:35 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:40 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:40 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:45 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:45 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:50 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:50 info: Retrying connection in 5 seconds...
+2025-06-07 01:10:55 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:10:55 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:00 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:00 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:05 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:05 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:10 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:10 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:15 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:15 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:20 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:20 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:25 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:25 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:30 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:30 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:35 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:35 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:40 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:40 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:45 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:45 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:50 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:50 info: Retrying connection in 5 seconds...
+2025-06-07 01:11:55 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:11:55 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:00 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:00 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:05 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:05 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:10 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:10 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:15 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:16 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:21 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:21 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:26 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:26 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:31 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:31 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:36 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:36 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:41 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:41 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:46 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:46 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:51 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:51 info: Retrying connection in 5 seconds...
+2025-06-07 01:12:56 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:12:56 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:01 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:01 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:06 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:06 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:11 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:11 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:16 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:16 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:21 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:21 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:26 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:26 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:31 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:31 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:36 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:36 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:41 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:41 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:46 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:46 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:51 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:51 info: Retrying connection in 5 seconds...
+2025-06-07 01:13:56 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:13:56 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:01 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:01 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:06 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:06 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:11 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:11 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:16 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:16 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:21 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:21 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:26 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:26 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:31 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:31 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:36 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:36 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:41 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:41 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:46 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:46 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:51 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:51 info: Retrying connection in 5 seconds...
+2025-06-07 01:14:56 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:14:56 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:01 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:01 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:06 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:06 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:11 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:11 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:16 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:16 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:21 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:21 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:26 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:26 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:31 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:31 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:36 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:36 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:41 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:41 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:46 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:46 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:51 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:51 info: Retrying connection in 5 seconds...
+2025-06-07 01:15:56 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:15:56 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:01 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:01 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:06 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:06 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:11 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:11 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:16 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:16 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:21 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:21 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:26 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:26 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:31 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:31 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:36 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:36 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:41 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:41 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:46 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:46 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:51 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:51 info: Retrying connection in 5 seconds...
+2025-06-07 01:16:56 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:16:56 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:01 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:01 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:06 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:06 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:11 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:11 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:16 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:16 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:21 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:21 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:26 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:26 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:31 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:31 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:36 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:36 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:41 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:41 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:46 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:46 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:51 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:51 info: Retrying connection in 5 seconds...
+2025-06-07 01:17:56 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:17:56 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:01 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:01 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:06 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:06 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:11 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:11 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:16 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:16 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:21 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:21 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:26 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:26 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:31 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:31 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:36 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:36 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:41 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:41 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:46 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:46 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:51 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:51 info: Retrying connection in 5 seconds...
+2025-06-07 01:18:56 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:18:56 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:01 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:01 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:07 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:07 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:12 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:12 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:17 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:17 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:22 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:22 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:27 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:27 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:32 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:32 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:37 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:37 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:42 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:42 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:47 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:47 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:52 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:52 info: Retrying connection in 5 seconds...
+2025-06-07 01:19:57 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:19:57 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:02 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:02 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:07 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:07 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:12 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:12 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:17 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:17 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:22 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:22 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:27 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:27 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:32 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:32 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:37 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:37 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:42 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:42 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:47 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:47 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:52 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:52 info: Retrying connection in 5 seconds...
+2025-06-07 01:20:57 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:20:57 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:02 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:02 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:07 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:07 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:12 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:12 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:17 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:17 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:22 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:22 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:27 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:27 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:32 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:32 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:37 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:37 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:42 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:42 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:47 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:47 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:52 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:52 info: Retrying connection in 5 seconds...
+2025-06-07 01:21:57 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:21:57 info: Retrying connection in 5 seconds...
+2025-06-07 01:22:02 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:22:02 info: Retrying connection in 5 seconds...
+2025-06-07 01:22:07 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:22:07 info: Retrying connection in 5 seconds...
+2025-06-07 01:22:12 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:22:12 info: Retrying connection in 5 seconds...
+2025-06-07 01:22:17 error: MongoDB connection failed: URI must include hostname, domain name, and tld
+2025-06-07 01:22:17 info: Retrying connection in 5 seconds...
+2025-06-07 01:27:01 info: Server running in development mode on port 5000
+2025-06-07 01:27:06 error: MongoDB connection failed: Server selection timed out after 5000 ms
+2025-06-07 01:27:06 info: Retrying connection in 5 seconds...
+2025-06-07 01:27:14 info: MongoDB Connected: ac-ex6rwyl-shard-00-00.yb16xa7.mongodb.net
+2025-06-07 01:27:45 error: Error: Invalid email or password
+    at C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\controllers\userController.js:81:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 01:33:36 info: Server running in development mode on port 5000
+2025-06-07 01:33:38 info: MongoDB Connected: ac-ex6rwyl-shard-00-00.yb16xa7.mongodb.net
+2025-06-07 17:17:10 info: Server running in development mode on port 5000
+2025-06-07 17:17:16 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:17:16 info: Retrying connection in 5 seconds...
+2025-06-07 17:17:26 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:17:26 info: Retrying connection in 5 seconds...
+2025-06-07 17:17:36 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:17:36 info: Retrying connection in 5 seconds...
+2025-06-07 17:17:46 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:17:46 info: Retrying connection in 5 seconds...
+2025-06-07 17:17:56 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:17:56 info: Retrying connection in 5 seconds...
+2025-06-07 17:18:06 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:18:06 info: Retrying connection in 5 seconds...
+2025-06-07 17:20:45 info: Server running in development mode on port 5000
+2025-06-07 17:20:53 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:20:53 info: Retrying connection in 5 seconds...
+2025-06-07 17:21:03 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:21:03 info: Retrying connection in 5 seconds...
+2025-06-07 17:21:13 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:21:13 info: Retrying connection in 5 seconds...
+2025-06-07 17:21:23 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:21:23 info: Retrying connection in 5 seconds...
+2025-06-07 17:21:33 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:21:33 info: Retrying connection in 5 seconds...
+2025-06-07 17:21:43 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:21:43 info: Retrying connection in 5 seconds...
+2025-06-07 17:21:53 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:21:53 info: Retrying connection in 5 seconds...
+2025-06-07 17:22:03 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:22:03 info: Retrying connection in 5 seconds...
+2025-06-07 17:22:13 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:22:13 info: Retrying connection in 5 seconds...
+2025-06-07 17:22:23 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:22:23 info: Retrying connection in 5 seconds...
+2025-06-07 17:22:34 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:22:34 info: Retrying connection in 5 seconds...
+2025-06-07 17:22:44 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-07 17:22:44 info: Retrying connection in 5 seconds...
+2025-06-07 17:22:59 info: Server running in development mode on port 5000
+2025-06-07 17:22:59 info: MongoDB Connected: localhost
+2025-06-07 17:24:14 info: Server running in development mode on port 5000
+2025-06-07 17:24:14 info: MongoDB Connected: localhost
+2025-06-07 17:28:47 info: Server running in development mode on port 5000
+2025-06-07 17:28:47 info: MongoDB Connected: localhost
+2025-06-07 17:28:52 info: Server running in development mode on port 5000
+2025-06-07 17:28:52 info: MongoDB Connected: localhost
+2025-06-07 17:38:26 error: Error: User already exists
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\userController.js:30:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 17:39:54 info: Server running in development mode on port 5000
+2025-06-07 17:39:54 info: MongoDB Connected: localhost
+2025-06-07 17:40:15 info: Server running in development mode on port 5000
+2025-06-07 17:40:15 info: MongoDB Connected: localhost
+2025-06-07 17:41:16 info: Server running in development mode on port 5000
+2025-06-07 17:41:16 info: MongoDB Connected: localhost
+2025-06-07 17:41:20 info: Server running in development mode on port 5000
+2025-06-07 17:41:20 info: MongoDB Connected: localhost
+2025-06-07 17:42:06 info: Server running in development mode on port 5000
+2025-06-07 17:42:06 info: MongoDB Connected: localhost
+2025-06-07 17:49:41 info: Server running in development mode on port 5000
+2025-06-07 17:49:41 info: MongoDB Connected: localhost
+2025-06-07 17:49:47 info: Server running in development mode on port 5000
+2025-06-07 17:49:47 info: MongoDB Connected: localhost
+2025-06-07 17:49:52 info: Server running in development mode on port 5000
+2025-06-07 17:49:52 info: MongoDB Connected: localhost
+2025-06-07 17:50:30 info: Server running in development mode on port 5000
+2025-06-07 17:50:30 info: MongoDB Connected: localhost
+2025-06-07 17:51:17 info: Server running in development mode on port 5000
+2025-06-07 17:51:17 info: MongoDB Connected: localhost
+2025-06-07 17:51:24 info: Server running in development mode on port 5000
+2025-06-07 17:51:24 info: MongoDB Connected: localhost
+2025-06-07 17:52:50 error: Error: User already exists
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\userController.js:29:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 17:53:38 error: Error: Invalid email or password
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\userController.js:101:11
+2025-06-07 17:54:16 error: Error: Not authorized, no token
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\middleware\authMiddleware.js:32:11
+    at asyncUtilWrap (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express-async-handler\index.js:3:20)
+    at Layer.handle [as handle_request] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:175:3)
+2025-06-07 17:54:23 error: Error: Not authorized, no token
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\middleware\authMiddleware.js:32:11
+    at asyncUtilWrap (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express-async-handler\index.js:3:20)
+    at Layer.handle [as handle_request] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:175:3)
+2025-06-07 17:56:01 error: Error: Invalid email or password
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\userController.js:101:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 17:56:30 error: Error: Not authorized, no token
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\middleware\authMiddleware.js:32:11
+    at asyncUtilWrap (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express-async-handler\index.js:3:20)
+    at Layer.handle [as handle_request] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\index.js:175:3)
+2025-06-07 18:00:23 info: Server running in development mode on port 5000
+2025-06-07 18:00:23 info: MongoDB Connected: localhost
+2025-06-07 18:03:53 info: Server running in development mode on port 5000
+2025-06-07 18:03:53 info: MongoDB Connected: localhost
+2025-06-07 18:08:41 info: Server running in development mode on port 5000
+2025-06-07 18:08:41 info: MongoDB Connected: localhost
+2025-06-07 18:30:46 error: Error: Not authorized as an admin
+    at admin (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\middleware\authMiddleware.js:43:11)
+    at Layer.handle [as handle_request] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\route.js:149:13)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\middleware\authMiddleware.js:29:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 18:31:46 error: Error: Not authorized as an admin
+    at admin (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\middleware\authMiddleware.js:43:11)
+    at Layer.handle [as handle_request] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\express\lib\router\route.js:149:13)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\middleware\authMiddleware.js:29:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 18:32:04 error: Error: Invalid email or password
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\userController.js:101:11
+2025-06-07 18:32:43 error: Error: Invalid email or password
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\userController.js:101:11
+2025-06-07 18:33:19 error: Error: Unexpected file field
+    at fileFilter (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\middleware\uploadMiddleware.js:44:8)
+    at wrappedFileFilter (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\multer\index.js:44:7)
+    at Multipart.<anonymous> (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\multer\lib\make-middleware.js:109:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\streamsearch\lib\sbmh.js:200:10)
+    at SBMH.push (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\busboy\lib\types\multipart.js:567:19)
+2025-06-07 18:33:42 warn: MongoDB disconnected
+2025-06-07 18:33:48 info: Server running in development mode on port 5000
+2025-06-07 18:33:48 info: MongoDB Connected: localhost
+2025-06-07 18:39:03 error: Error: Unexpected file field
+    at fileFilter (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\middleware\uploadMiddleware.js:44:8)
+    at wrappedFileFilter (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\multer\index.js:44:7)
+    at Multipart.<anonymous> (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\multer\lib\make-middleware.js:109:7)
+    at Multipart.emit (node:events:518:28)
+    at HeaderParser.cb (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\busboy\lib\types\multipart.js:358:14)
+    at HeaderParser.push (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\busboy\lib\types\multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\busboy\lib\types\multipart.js:394:37)
+    at feed (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\streamsearch\lib\sbmh.js:248:10)
+    at SBMH.push (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\streamsearch\lib\sbmh.js:104:16)
+    at Multipart._write (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\busboy\lib\types\multipart.js:567:19)
+2025-06-07 18:40:10 info: Server running in development mode on port 5000
+2025-06-07 18:40:10 info: MongoDB Connected: localhost
+2025-06-07 18:40:14 info: Server running in development mode on port 5000
+2025-06-07 18:40:14 info: MongoDB Connected: localhost
+2025-06-07 18:40:18 info: Server running in development mode on port 5000
+2025-06-07 18:40:18 info: MongoDB Connected: localhost
+2025-06-07 18:40:20 info: Server running in development mode on port 5000
+2025-06-07 18:40:20 info: MongoDB Connected: localhost
+2025-06-07 18:41:58 error: Error: Journal with this title or ISSN already exists
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\journalController.js:47:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 18:43:55 error: CastError: Cast to ObjectId failed for value "68443a442b4c504dfca1e5" (type string) at path "_id" for model "Journal"
+    at ObjectId.cast (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\schema\objectid.js:250:11)
+    at SchemaType.applySetters (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\schematype.js:1219:12)
+    at SchemaType.castForQuery (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\schematype.js:1633:15)
+    at cast (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\cast.js:389:32)
+    at Query.cast (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\query.js:4927:12)
+    at Query._castConditions (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\query.js:2237:10)
+    at model.Query._findOne (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\query.js:2533:8)
+    at model.Query.exec (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\query.js:4447:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\journalController.js:16:19
+2025-06-07 18:49:23 error: CastError: Cast to ObjectId failed for value "68443a442b4c504dfca1e5" (type string) at path "_id" for model "Journal"
+    at ObjectId.cast (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\schema\objectid.js:250:11)
+    at SchemaType.applySetters (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\schematype.js:1219:12)
+    at SchemaType.castForQuery (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\schematype.js:1633:15)
+    at cast (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\cast.js:389:32)
+    at Query.cast (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\query.js:4927:12)
+    at Query._castConditions (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\query.js:2237:10)
+    at model.Query._findOne (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\query.js:2533:8)
+    at model.Query.exec (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\query.js:4447:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\journalController.js:91:19
+2025-06-07 18:49:45 error: TypeError: journal.remove is not a function
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\journalController.js:98:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 18:50:28 info: Server running in development mode on port 5000
+2025-06-07 18:50:28 info: MongoDB Connected: localhost
+2025-06-07 19:03:02 info: Server running in development mode on port 5000
+2025-06-07 19:03:02 info: MongoDB Connected: localhost
+2025-06-07 19:07:25 info: Server running in development mode on port 5000
+2025-06-07 19:07:25 info: MongoDB Connected: localhost
+2025-06-07 19:07:31 info: Server running in development mode on port 5000
+2025-06-07 19:07:31 info: MongoDB Connected: localhost
+2025-06-07 19:07:35 info: Server running in development mode on port 5000
+2025-06-07 19:07:35 info: MongoDB Connected: localhost
+2025-06-07 19:09:25 info: Server running in development mode on port 5000
+2025-06-07 19:09:25 info: MongoDB Connected: localhost
+2025-06-07 19:09:28 info: Server running in development mode on port 5000
+2025-06-07 19:09:28 info: MongoDB Connected: localhost
+2025-06-07 19:10:08 info: Server running in development mode on port 5000
+2025-06-07 19:10:08 info: MongoDB Connected: localhost
+2025-06-07 19:11:33 info: Server running in development mode on port 5000
+2025-06-07 19:11:33 info: MongoDB Connected: localhost
+2025-06-07 19:19:52 info: Server running in development mode on port 5000
+2025-06-07 19:19:52 info: MongoDB Connected: localhost
+2025-06-07 19:28:14 error: ValidationError: Article validation failed: authors: Cast to embedded failed for value "[{"name":"Dr. A. Verma","email":"averma@example.com","affiliation":"IIT Delhi","orcidId":"0000-0001-2345-6789","isCorresponding":true},{"name":"Dr. B. Mehra","email":"bmehra@example.com","affiliation":"IISc Bangalore"}]\t" (type string) at path "authors" because of "ObjectParameterError", journal: Cast to ObjectId failed for value "665f8dfb8b63c00ef07c2a91 (Replace with valid Journal _id from your DB)\t" (type string) at path "journal" because of "BSONError"
+    at Document.invalidate (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:3219:32)
+    at model.$set (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:1464:12)
+    at model.$set (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:1119:16)
+    at model.Document (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:165:12)
+    at model.Model (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\model.js:123:12)
+    at new model (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\model.js:4758:15)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\model.js:2922:18
+    at Array.map (<anonymous>)
+    at Function.create (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\model.js:2911:30)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\articleController.js:76:33
+2025-06-07 19:29:47 info: Server running in development mode on port 5000
+2025-06-07 19:29:47 info: MongoDB Connected: localhost
+2025-06-07 19:29:51 error: ValidationError: Article validation failed: journal: Cast to ObjectId failed for value "665f8dfb8b63c00ef07c2a91 (Replace with valid Journal _id from your DB)\t" (type string) at path "journal" because of "BSONError"
+    at Document.invalidate (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:3219:32)
+    at model.$set (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:1464:12)
+    at model.$set (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:1119:16)
+    at model.Document (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:165:12)
+    at model.Model (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\model.js:123:12)
+    at new model (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\model.js:4758:15)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\model.js:2922:18
+    at Array.map (<anonymous>)
+    at Function.create (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\model.js:2911:30)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\articleController.js:84:33
+2025-06-07 19:32:24 error: MongoServerError: E11000 duplicate key error collection: csmr.articles index: doi_1 dup key: { doi: "	10.1016/qrescrypt.2025.03.014" }
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongodb\lib\operations\insert.js:50:33
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongodb\lib\operations\command.js:84:64
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 19:38:35 error: Error: An article with this title already exists
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\articleController.js:72:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 19:42:59 error: ValidationError: Article validation failed: authors: Cast to embedded failed for value "[{"name":"Dr. A. Verma","email":"averma@example.com","affiliation":"IIT Delhi","orcidId":"0000-0001-2345-6789","isCorresponding":true},{"name":"Dr. B. Mehra","email":"bmehra@example.com","affiliation":"IISc Bangalore"}]\t" (type string) at path "authors" because of "ObjectParameterError"
+    at Document.invalidate (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:3219:32)
+    at model.$set (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\document.js:1464:12)
+    at model.set [as authors] (D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\node_modules\mongoose\lib\helpers\document\compile.js:205:19)
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\articleController.js:114:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 19:44:26 info: Server running in development mode on port 5000
+2025-06-07 19:44:26 info: MongoDB Connected: localhost
+2025-06-07 19:44:29 error: ReferenceError: mongoose is not defined
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\articleController.js:132:27
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 19:45:20 info: Server running in development mode on port 5000
+2025-06-07 19:45:20 info: MongoDB Connected: localhost
+2025-06-07 19:49:50 info: Server running in development mode on port 5000
+2025-06-07 19:49:50 info: MongoDB Connected: localhost
+2025-06-07 19:50:04 info: Server running in development mode on port 5000
+2025-06-07 19:50:04 info: MongoDB Connected: localhost
+2025-06-07 19:52:30 info: Server running in development mode on port 5000
+2025-06-07 19:52:30 info: MongoDB Connected: localhost
+2025-06-07 19:52:51 info: Server running in development mode on port 5000
+2025-06-07 19:52:51 info: MongoDB Connected: localhost
+2025-06-07 19:53:02 error: ReferenceError: authors is not defined
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\articleController.js:122:3
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 19:54:22 info: Server running in development mode on port 5000
+2025-06-07 19:54:22 info: MongoDB Connected: localhost
+2025-06-07 19:54:26 info: Server running in development mode on port 5000
+2025-06-07 19:54:26 info: MongoDB Connected: localhost
+2025-06-07 19:55:16 info: Server running in development mode on port 5000
+2025-06-07 19:55:16 info: MongoDB Connected: localhost
+2025-06-07 19:55:18 info: Server running in development mode on port 5000
+2025-06-07 19:55:18 info: MongoDB Connected: localhost
+2025-06-07 19:58:16 error: Error: Article not found
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\articleController.js:236:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 19:58:34 error: Error: Article already reviewed
+    at D:\Development\WEB_D_PERSONAL\ServiceSetu_w2_new\ServiceSetu_w2\backend\controllers\articleController.js:211:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-06-07 19:59:33 info: Server running in development mode on port 5000
+2025-06-07 19:59:33 info: MongoDB Connected: localhost
+2025-06-07 19:59:34 warn: MongoDB disconnected
+2025-06-07 22:58:11 info: Server running in development mode on port 5000
+2025-06-07 22:58:16 error: MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017
+2025-06-07 22:58:16 info: Retrying connection in 5 seconds...
+2025-06-07 22:58:26 error: MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017
+2025-06-07 22:58:26 info: Retrying connection in 5 seconds...
+2025-06-07 22:58:36 error: MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017
+2025-06-07 22:58:36 info: Retrying connection in 5 seconds...
+2025-06-07 22:58:46 error: MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017
+2025-06-07 22:58:46 info: Retrying connection in 5 seconds...
+2025-06-07 22:58:56 error: MongoDB connection failed: connect ECONNREFUSED 127.0.0.1:27017
+2025-06-07 22:58:56 info: Retrying connection in 5 seconds...
+2025-06-07 23:38:38 info: Server running in production mode on port 5000
+2025-06-07 23:38:40 info: MongoDB Connected: ac-drj5j6y-shard-00-02.o3fu9gc.mongodb.net
+2025-06-08 00:05:33 warn: MongoDB disconnected
+2025-06-08 00:06:44 info: Server running in production mode on port 5000
+2025-06-08 00:06:47 info: MongoDB Connected: ac-drj5j6y-shard-00-01.o3fu9gc.mongodb.net
+2025-06-08 00:24:18 warn: MongoDB disconnected
+2025-06-08 00:24:23 info: Attempting to reconnect to MongoDB...
+2025-06-08 00:24:36 warn: MongoDB disconnected
+2025-06-08 00:39:18 info: Server running in production mode on port 5000
+2025-06-08 00:39:52 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:39:52 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:39:53 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:39:53 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:39:56 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:39:56 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:40:02 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:40:02 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:40:07 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:40:07 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:40:08 error: MongoDB connection failed: querySrv ETIMEOUT _mongodb._tcp.cluster0.o3fu9gc.mongodb.net
+2025-06-08 00:40:08 info: Retrying connection in 5 seconds...
+2025-06-08 00:40:09 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:40:09 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\khans\OneDrive\Desktop\ServiceSetu_w2\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-06-08 00:41:07 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-08 00:41:07 info: Retrying connection in 5 seconds...
+2025-06-08 00:41:36 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-06-08 00:41:36 info: Retrying connection in 5 seconds...
+2025-06-08 00:41:42 info: MongoDB Connected: ac-drj5j6y-shard-00-02.o3fu9gc.mongodb.net
+2025-06-08 01:39:01 warn: MongoDB disconnected
+2025-07-10 02:22:49 info: Server running in production mode on port 5000
+2025-07-10 02:22:59 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\Asus\OneDrive\Desktop\ServiceSetu_w21\ServiceSetu_w21\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-07-10 02:23:19 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-07-10 02:23:19 warn: Running in demo mode without database connection
+2025-07-10 02:23:19 info: API endpoints will return sample data
+2025-07-10 02:23:44 info: Server running in production mode on port 5000
+2025-07-10 02:23:54 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\Asus\OneDrive\Desktop\ServiceSetu_w21\ServiceSetu_w21\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-07-10 02:24:14 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-07-10 02:24:14 warn: Running in demo mode without database connection
+2025-07-10 02:24:14 info: API endpoints will return sample data
+2025-07-10 16:26:23 info: Server running in production mode on port 5000
+2025-07-10 16:26:33 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\Home\Desktop\work\ServiceSetu_w21 (2)\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-07-10 16:26:53 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-07-10 16:26:53 warn: Running in demo mode without database connection
+2025-07-10 16:26:53 info: API endpoints will return sample data
+2025-07-10 16:53:19 info: Server running in production mode on port 5000
+2025-07-10 16:53:29 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\Home\Desktop\work\ServiceSetu_w21 (2)\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-07-10 16:53:51 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-07-10 16:53:51 warn: Running in demo mode without database connection
+2025-07-10 16:53:51 info: API endpoints will return sample data
+2025-07-10 16:58:06 info: Server running in development  mode on port 5000
+2025-07-10 16:58:16 error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (c:\Users\Home\Desktop\work\ServiceSetu_w21 (2)\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7)
+2025-07-10 16:58:37 error: MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-07-10 16:58:37 warn: Running in demo mode without database connection
+2025-07-10 16:58:37 info: API endpoints will return sample data
