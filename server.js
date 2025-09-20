@@ -142,6 +142,12 @@ app.use('/api/contact', require('./routes/contactRoutes')); //incomplete
 app.use('/api/cfp', require('./routes/cfpRoutes'));  // incomplete
 app.use('/api/newsletter', require('./routes/newsletterRoutes')); //incomplete
 
+// Admin panel routes
+app.use('/api/admin', require('./routes/adminRoutes'));
+app.use('/api/admin/publications', require('./routes/publicationRoutes'));
+app.use('/api/admin/reviews', require('./routes/reviewRoutes'));
+app.use('/api/admin/notifications', require('./routes/notificationRoutes'));
+
 // Error handler
 app.use(errorHandler);
 

@@ -481,4 +481,103 @@ pdf: [File Upload]
   "success": true,
   "message": "Successfully subscribed to newsletter"
 }
-``` 
+```
+
+---
+
+## Admin Panel Endpoints
+
+The admin panel provides comprehensive management capabilities for the journal publication system. All admin endpoints require authentication with admin privileges.
+
+### Admin Dashboard
+**GET** `/admin/dashboard`
+- Get comprehensive dashboard statistics and metrics
+- Access: Admin only
+
+**Response**
+```json
+{
+  "success": true,
+  "data": {
+    "overview": {
+      "totalUsers": 150,
+      "totalArticles": 45,
+      "totalJournals": 3,
+      "recentSubmissions": 12,
+      "publishedThisYear": 8
+    },
+    "articlesByStatus": [
+      { "_id": "submitted", "count": 5 },
+      { "_id": "under-review", "count": 8 },
+      { "_id": "published", "count": 12 }
+    ]
+  }
+}
+```
+
+### User Management
+**GET** `/admin/users`
+- Get paginated list of users with filtering
+- Access: Admin only
+
+**PUT** `/admin/users/:id`
+- Update user role and admin status
+- Access: Admin only
+
+**DELETE** `/admin/users/:id`
+- Delete user account
+- Access: Admin only
+
+### Article Management
+**GET** `/admin/articles`
+- Get paginated list of articles with advanced filtering
+- Access: Admin only
+
+**PUT** `/admin/articles/:id/status`
+- Update article status and assign editors
+- Access: Admin only
+
+**PUT** `/admin/articles/:id/assign-reviewers`
+- Assign reviewers to an article
+- Access: Admin only
+
+### Publication Management
+**GET** `/admin/publications/workflow`
+- Get articles count by publication status
+- Access: Admin only
+
+**GET** `/admin/publications/ready`
+- Get articles ready for publication
+- Access: Admin only
+
+**PUT** `/admin/publications/:id/publish`
+- Publish an accepted article
+- Access: Admin only
+
+### Review Management
+**GET** `/admin/reviews`
+- Get paginated list of reviews with filtering
+- Access: Admin only
+
+**GET** `/admin/reviews/statistics`
+- Get comprehensive review statistics
+- Access: Admin only
+
+**POST** `/admin/reviews/bulk-assign`
+- Assign reviewers to multiple articles
+- Access: Admin only
+
+### Notifications & Monitoring
+**GET** `/admin/notifications`
+- Get system notifications and alerts
+- Access: Admin only
+
+**GET** `/admin/notifications/health`
+- Get system health status and metrics
+- Access: Admin only
+
+**GET** `/admin/notifications/activity`
+- Get system activity feed
+- Access: Admin only
+
+For detailed admin panel API documentation, see [ADMIN_API_DOCUMENTATION.md](./ADMIN_API_DOCUMENTATION.md). 
